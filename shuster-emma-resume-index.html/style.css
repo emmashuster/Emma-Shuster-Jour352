@@ -1,0 +1,117 @@
+style.css
+#content
+{ margin:  0 auto;
+	width:  900px;
+}
+#container
+{margin:  0 auto;
+	width:  900px;
+}
+#body{
+background color: 44C8FF;
+}
+p{
+	font-family:  "Arial" sans-serif ;
+}
+.display-4{
+		font-size: 8em;
+		border:  1px;
+	text-transform: uppercase;
+	background-color: #33485e;
+	color: white;
+	font-weight:400;
+text-align: center;
+}
+.lead{
+font-size: 1.5em;
+	color: #33485e;
+	font-weight:400;
+	font-weight:  bold;
+margin-bottom: 10px;
+margin-top: 20px;
+margin-right: 0px;
+margin-left: 0px;
+min-width: 300px;
+text-align:  center;
+}
+.chapter-text{
+	font-size: 1em;
+	text-transform: uppercase;
+	color: white;
+	font-weight:400;
+text-align:  center;
+}
+#sectionheader{
+font-size: 1.5em;
+	text-transform: uppercase;
+	background-color: white;
+	color:#33485e;
+	font-weight:400;
+margin-bottom: 10px;
+margin-top: 20px;
+margin-right: 0px;
+margin-left: 0px;
+width: 70%;
+min-width: 300px;
+}
+#footer{
+	text-align:  center;
+}
+#content {
+	margin:  0 auto;
+	width:  900px;
+}
+#links{
+	text-align:  center;
+}
+
+#degrees{
+	color:#33485e ;
+}
+.description{
+	color: #33485e;
+}
+#jobtitle
+{	color: #33485e;
+
+}
+#organization{
+	color: #33485e;
+}
+
+#organizations a:link{
+	color: white;
+}
+#organizations a:visited{
+	color: white;
+}
+#date{
+		color: #33485e;
+}
+#school{
+	color: #33485e;
+}
+.summary{
+	color:  white;
+}
+#ending{
+	color: #33485e;
+}
+.role{
+	color: #33485e;
+}
+#intro{
+	color: #33485e;
+	text-align:  center;
+}
+.center{
+	display: block;
+  width:  100%;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#clipintro{
+	text-align:  center;
+	color: #33485e;
+}
