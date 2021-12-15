@@ -1,0 +1,91 @@
+#body{
+background color: #d3d3d3;
+}
+#content {
+	margin:  0 auto;
+	width:  900px;
+}
+.subhead{
+	text-align: center;
+	font-style: bold;
+	margin:  0 auto;
+	font-size: 4em;
+	font-family:  sans-serif;
+}
+#name{
+font-size: 6.5em;
+font-type: Georgia;
+	color: red;
+	background-color: black;
+text-transform: uppercase;
+width: 100%;
+min-width:  300px;
+margin:0 auto;
+text-align:  center;
+}
+#headline{
+	font-size: 2em;
+	color:black;
+	font-weight:200;
+margin:  0 auto;
+width: 100%;
+min-width: 300px;
+text-align: center;
+}
+#byline{
+	font-size: 1.25em;
+	color:black ;
+	font-weight:200;
+width: 100%;
+margin:  0 auto;
+min-width: 300px;
+text-align: left;
+}
+#footer{
+	text-align:  center;}
+	blockquote {
+font-size: 1.25em;
+font-style:  bold;
+color: black;
+	font-weight:400;
+margin:  0 auto;
+width: 100%;
+min-width: 300px;
+text-align: center;
+font-style:  italic;
+ background: white;
+  border-left: 40px;
+  margin: 0 auto;
+  padding: 0.5em 20px;
+  width:  100%;
+}
+.center{
+ margin: auto;
+ display: block;
+ width:  100%;
+ max-width:  900px;
+ text-align: center;
+font-size:  .85em;
+font-style:  italic;
+image-align:  center;
+margin-left: auto;
+margin-right:  auto;
+}
+#links
+{
+	text-align:  center;
+}
+#closer{
+	text-align:  center;
+	font-style: bold;
+	margin:  0 auto;
+	font-size:  1.25em;
+	font-style:  italic;
+	font-family:  sans-serif;
+}
+#links a:link{
+	color: black;
+}
+#links a:visited{
+	color: black;
+}
